@@ -1,2 +1,11 @@
 # FRM_BY_PYTHON
-risk models in FRM by python
+*Risk models in FRM by python*
+
+* Market Risk  
+   
+* Credit Risk  
+
+* Operational Risk 
+
+* Investment Risk  
+
